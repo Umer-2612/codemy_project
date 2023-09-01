@@ -1,1 +1,1 @@
-# codemy_project
+# Ed Teach Platform 
